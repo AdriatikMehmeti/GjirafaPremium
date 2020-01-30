@@ -11,4 +11,11 @@ Instalimi
   
 kohe pas kohe shkarko versionin e freskuar
 
+==================================
+Android
+==================================
+APK -> http://www.mediafire.com/file/skq4ufy3l386fg2/GjirafaVideo.apk/file
+
+Minimum Android  4.2.2
+
 
